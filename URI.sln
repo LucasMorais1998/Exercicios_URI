@@ -174,7 +174,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1175.Troca_em_Vetor_I", "11
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1177.Preenchimento_de_Vetor_II", "1177.Preenchimento_de_Vetor_II\1177.Preenchimento_de_Vetor_II.csproj", "{EB1E3C16-CA2D-4F18-BD31-03D671359916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1178.Preenchimento_de_Vetor_III", "1178.Preenchimento_de_Vetor_III\1178.Preenchimento_de_Vetor_III.csproj", "{D54CEFCB-F496-4194-ADAB-36804B9004B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1178.Preenchimento_de_Vetor_III", "1178.Preenchimento_de_Vetor_III\1178.Preenchimento_de_Vetor_III.csproj", "{D54CEFCB-F496-4194-ADAB-36804B9004B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1180.Menor_e_Posição", "1180.Menor_e_Posição\1180.Menor_e_Posição.csproj", "{624EE9DF-27A2-4B7A-8984-CC95A7ED84C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -518,6 +520,10 @@ Global
 		{D54CEFCB-F496-4194-ADAB-36804B9004B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D54CEFCB-F496-4194-ADAB-36804B9004B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D54CEFCB-F496-4194-ADAB-36804B9004B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{624EE9DF-27A2-4B7A-8984-CC95A7ED84C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624EE9DF-27A2-4B7A-8984-CC95A7ED84C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624EE9DF-27A2-4B7A-8984-CC95A7ED84C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624EE9DF-27A2-4B7A-8984-CC95A7ED84C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
