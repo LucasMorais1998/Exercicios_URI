@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\bin\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.exe
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\bin\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.deps.json
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\bin\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\bin\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\bin\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.dll
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\bin\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.pdb
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.dll
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.pdb
+F:\Users\lucas\source\repos\URI\1151.Fibonacci_Fácil\obj\Debug\netcoreapp3.1\1151.Fibonacci_Fácil.genruntimeconfig.cache

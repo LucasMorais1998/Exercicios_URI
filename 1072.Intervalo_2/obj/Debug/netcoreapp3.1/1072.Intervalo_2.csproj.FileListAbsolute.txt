@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\bin\Debug\netcoreapp3.1\1072.Intervalo_2.exe
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\bin\Debug\netcoreapp3.1\1072.Intervalo_2.deps.json
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\bin\Debug\netcoreapp3.1\1072.Intervalo_2.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\bin\Debug\netcoreapp3.1\1072.Intervalo_2.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\bin\Debug\netcoreapp3.1\1072.Intervalo_2.dll
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\bin\Debug\netcoreapp3.1\1072.Intervalo_2.pdb
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.dll
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.pdb
+F:\Users\lucas\source\repos\URI\1072.Intervalo_2\obj\Debug\netcoreapp3.1\1072.Intervalo_2.genruntimeconfig.cache

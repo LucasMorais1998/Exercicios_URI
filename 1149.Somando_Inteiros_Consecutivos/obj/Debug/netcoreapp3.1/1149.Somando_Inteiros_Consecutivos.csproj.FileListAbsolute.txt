@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\bin\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.exe
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\bin\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.deps.json
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\bin\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\bin\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\bin\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.dll
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\bin\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.pdb
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.dll
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.pdb
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1149.Somando_Inteiros_Consecutivos\obj\Debug\netcoreapp3.1\1149.Somando_Inteiros_Consecutivos.csproj.AssemblyReference.cache

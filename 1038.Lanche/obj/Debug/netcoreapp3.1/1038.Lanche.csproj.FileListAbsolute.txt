@@ -1,0 +1,12 @@
+F:\Users\lucas\source\repos\URI\1038.Lanche\bin\Debug\netcoreapp3.1\1038.Lanche.exe
+F:\Users\lucas\source\repos\URI\1038.Lanche\bin\Debug\netcoreapp3.1\1038.Lanche.deps.json
+F:\Users\lucas\source\repos\URI\1038.Lanche\bin\Debug\netcoreapp3.1\1038.Lanche.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1038.Lanche\bin\Debug\netcoreapp3.1\1038.Lanche.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1038.Lanche\bin\Debug\netcoreapp3.1\1038.Lanche.dll
+F:\Users\lucas\source\repos\URI\1038.Lanche\bin\Debug\netcoreapp3.1\1038.Lanche.pdb
+F:\Users\lucas\source\repos\URI\1038.Lanche\obj\Debug\netcoreapp3.1\1038.Lanche.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1038.Lanche\obj\Debug\netcoreapp3.1\1038.Lanche.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1038.Lanche\obj\Debug\netcoreapp3.1\1038.Lanche.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1038.Lanche\obj\Debug\netcoreapp3.1\1038.Lanche.dll
+F:\Users\lucas\source\repos\URI\1038.Lanche\obj\Debug\netcoreapp3.1\1038.Lanche.pdb
+F:\Users\lucas\source\repos\URI\1038.Lanche\obj\Debug\netcoreapp3.1\1038.Lanche.genruntimeconfig.cache

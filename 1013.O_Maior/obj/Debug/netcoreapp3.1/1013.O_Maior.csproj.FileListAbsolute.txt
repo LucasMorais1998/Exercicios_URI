@@ -1,0 +1,12 @@
+F:\Users\lucas\source\repos\URI\1013.O_Maior\bin\Debug\netcoreapp3.1\1013.O_Maior.exe
+F:\Users\lucas\source\repos\URI\1013.O_Maior\bin\Debug\netcoreapp3.1\1013.O_Maior.deps.json
+F:\Users\lucas\source\repos\URI\1013.O_Maior\bin\Debug\netcoreapp3.1\1013.O_Maior.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1013.O_Maior\bin\Debug\netcoreapp3.1\1013.O_Maior.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1013.O_Maior\bin\Debug\netcoreapp3.1\1013.O_Maior.dll
+F:\Users\lucas\source\repos\URI\1013.O_Maior\bin\Debug\netcoreapp3.1\1013.O_Maior.pdb
+F:\Users\lucas\source\repos\URI\1013.O_Maior\obj\Debug\netcoreapp3.1\1013.O_Maior.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1013.O_Maior\obj\Debug\netcoreapp3.1\1013.O_Maior.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1013.O_Maior\obj\Debug\netcoreapp3.1\1013.O_Maior.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1013.O_Maior\obj\Debug\netcoreapp3.1\1013.O_Maior.dll
+F:\Users\lucas\source\repos\URI\1013.O_Maior\obj\Debug\netcoreapp3.1\1013.O_Maior.pdb
+F:\Users\lucas\source\repos\URI\1013.O_Maior\obj\Debug\netcoreapp3.1\1013.O_Maior.genruntimeconfig.cache

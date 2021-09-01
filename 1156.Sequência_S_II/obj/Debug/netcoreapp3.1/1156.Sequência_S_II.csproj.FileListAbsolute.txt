@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\bin\Debug\netcoreapp3.1\1156.Sequência_S_II.exe
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\bin\Debug\netcoreapp3.1\1156.Sequência_S_II.deps.json
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\bin\Debug\netcoreapp3.1\1156.Sequência_S_II.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\bin\Debug\netcoreapp3.1\1156.Sequência_S_II.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\bin\Debug\netcoreapp3.1\1156.Sequência_S_II.dll
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\bin\Debug\netcoreapp3.1\1156.Sequência_S_II.pdb
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.dll
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.pdb
+F:\Users\lucas\source\repos\URI\1156.Sequência_S_II\obj\Debug\netcoreapp3.1\1156.Sequência_S_II.genruntimeconfig.cache

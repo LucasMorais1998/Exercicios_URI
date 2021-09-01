@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\bin\Debug\netcoreapp3.1\1132.Múltiplos_de_13.exe
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\bin\Debug\netcoreapp3.1\1132.Múltiplos_de_13.deps.json
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\bin\Debug\netcoreapp3.1\1132.Múltiplos_de_13.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\bin\Debug\netcoreapp3.1\1132.Múltiplos_de_13.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\bin\Debug\netcoreapp3.1\1132.Múltiplos_de_13.dll
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\bin\Debug\netcoreapp3.1\1132.Múltiplos_de_13.pdb
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.dll
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.pdb
+F:\Users\lucas\source\repos\URI\1132.Múltiplos_de_13\obj\Debug\netcoreapp3.1\1132.Múltiplos_de_13.genruntimeconfig.cache

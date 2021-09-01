@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1151.Fibonacci_Fácil/1.0.0": {
+        "runtime": {
+          "1151.Fibonacci_Fácil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1151.Fibonacci_Fácil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

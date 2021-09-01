@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\bin\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.exe
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\bin\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.deps.json
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\bin\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\bin\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\bin\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.dll
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\bin\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.pdb
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.dll
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.pdb
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1074.Par_ou_Ímpar\obj\Debug\netcoreapp3.1\1074.Par_ou_Ímpar.csproj.AssemblyReference.cache

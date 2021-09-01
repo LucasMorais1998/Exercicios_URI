@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1094.Experiências\bin\Debug\netcoreapp3.1\1094.Experiências.exe
+F:\Users\lucas\source\repos\URI\1094.Experiências\bin\Debug\netcoreapp3.1\1094.Experiências.deps.json
+F:\Users\lucas\source\repos\URI\1094.Experiências\bin\Debug\netcoreapp3.1\1094.Experiências.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1094.Experiências\bin\Debug\netcoreapp3.1\1094.Experiências.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1094.Experiências\bin\Debug\netcoreapp3.1\1094.Experiências.dll
+F:\Users\lucas\source\repos\URI\1094.Experiências\bin\Debug\netcoreapp3.1\1094.Experiências.pdb
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.dll
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.pdb
+F:\Users\lucas\source\repos\URI\1094.Experiências\obj\Debug\netcoreapp3.1\1094.Experiências.genruntimeconfig.cache

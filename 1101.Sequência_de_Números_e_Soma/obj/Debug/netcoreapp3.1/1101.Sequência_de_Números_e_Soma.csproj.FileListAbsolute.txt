@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\bin\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.exe
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\bin\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.deps.json
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\bin\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\bin\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\bin\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.dll
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\bin\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.pdb
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.dll
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.pdb
+F:\Users\lucas\source\repos\URI\1101.Sequência_de_Números_e_Soma\obj\Debug\netcoreapp3.1\1101.Sequência_de_Números_e_Soma.genruntimeconfig.cache

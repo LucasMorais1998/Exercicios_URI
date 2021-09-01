@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\bin\Debug\netcoreapp3.1\1828.Bazinga!.exe
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\bin\Debug\netcoreapp3.1\1828.Bazinga!.deps.json
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\bin\Debug\netcoreapp3.1\1828.Bazinga!.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\bin\Debug\netcoreapp3.1\1828.Bazinga!.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\bin\Debug\netcoreapp3.1\1828.Bazinga!.dll
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\bin\Debug\netcoreapp3.1\1828.Bazinga!.pdb
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.dll
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.pdb
+F:\Users\lucas\source\repos\URI\1828.Bazinga!\obj\Debug\netcoreapp3.1\1828.Bazinga!.genruntimeconfig.cache

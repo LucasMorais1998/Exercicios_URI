@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\3303.Palavrão\bin\Debug\netcoreapp3.1\3303.Palavrão.exe
+F:\Users\lucas\source\repos\URI\3303.Palavrão\bin\Debug\netcoreapp3.1\3303.Palavrão.deps.json
+F:\Users\lucas\source\repos\URI\3303.Palavrão\bin\Debug\netcoreapp3.1\3303.Palavrão.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\3303.Palavrão\bin\Debug\netcoreapp3.1\3303.Palavrão.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\3303.Palavrão\bin\Debug\netcoreapp3.1\3303.Palavrão.dll
+F:\Users\lucas\source\repos\URI\3303.Palavrão\bin\Debug\netcoreapp3.1\3303.Palavrão.pdb
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.dll
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.pdb
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\3303.Palavrão\obj\Debug\netcoreapp3.1\3303.Palavrão.csproj.AssemblyReference.cache

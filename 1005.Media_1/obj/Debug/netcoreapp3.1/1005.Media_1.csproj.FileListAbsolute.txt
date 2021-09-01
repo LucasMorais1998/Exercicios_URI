@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1005.Media_1\bin\Debug\netcoreapp3.1\1005.Media_1.exe
+F:\Users\lucas\source\repos\URI\1005.Media_1\bin\Debug\netcoreapp3.1\1005.Media_1.deps.json
+F:\Users\lucas\source\repos\URI\1005.Media_1\bin\Debug\netcoreapp3.1\1005.Media_1.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1005.Media_1\bin\Debug\netcoreapp3.1\1005.Media_1.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1005.Media_1\bin\Debug\netcoreapp3.1\1005.Media_1.dll
+F:\Users\lucas\source\repos\URI\1005.Media_1\bin\Debug\netcoreapp3.1\1005.Media_1.pdb
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.dll
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.pdb
+F:\Users\lucas\source\repos\URI\1005.Media_1\obj\Debug\netcoreapp3.1\1005.Media_1.genruntimeconfig.cache

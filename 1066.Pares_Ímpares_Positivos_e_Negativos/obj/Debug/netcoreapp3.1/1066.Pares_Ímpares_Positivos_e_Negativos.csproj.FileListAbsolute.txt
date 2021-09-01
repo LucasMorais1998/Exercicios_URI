@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\bin\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.exe
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\bin\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.deps.json
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\bin\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\bin\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\bin\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.dll
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\bin\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.pdb
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.dll
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.pdb
+F:\Users\lucas\source\repos\URI\1066.Pares_Ímpares_Positivos_e_Negativos\obj\Debug\netcoreapp3.1\1066.Pares_Ímpares_Positivos_e_Negativos.genruntimeconfig.cache

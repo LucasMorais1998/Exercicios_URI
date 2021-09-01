@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\bin\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.exe
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\bin\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.deps.json
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\bin\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\bin\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\bin\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.dll
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\bin\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.pdb
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.dll
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.pdb
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1177.Preenchimento_de_Vetor_II\obj\Debug\netcoreapp3.1\1177.Preenchimento_de_Vetor_II.csproj.AssemblyReference.cache

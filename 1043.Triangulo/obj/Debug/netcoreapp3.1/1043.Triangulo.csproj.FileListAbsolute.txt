@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1043.Triangulo\bin\Debug\netcoreapp3.1\1043.Triangulo.exe
+F:\Users\lucas\source\repos\URI\1043.Triangulo\bin\Debug\netcoreapp3.1\1043.Triangulo.deps.json
+F:\Users\lucas\source\repos\URI\1043.Triangulo\bin\Debug\netcoreapp3.1\1043.Triangulo.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1043.Triangulo\bin\Debug\netcoreapp3.1\1043.Triangulo.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1043.Triangulo\bin\Debug\netcoreapp3.1\1043.Triangulo.dll
+F:\Users\lucas\source\repos\URI\1043.Triangulo\bin\Debug\netcoreapp3.1\1043.Triangulo.pdb
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.dll
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.pdb
+F:\Users\lucas\source\repos\URI\1043.Triangulo\obj\Debug\netcoreapp3.1\1043.Triangulo.genruntimeconfig.cache

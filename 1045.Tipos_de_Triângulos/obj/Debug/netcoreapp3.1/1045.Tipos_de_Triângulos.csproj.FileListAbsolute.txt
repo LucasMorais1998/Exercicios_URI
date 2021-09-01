@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\bin\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.exe
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\bin\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.deps.json
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\bin\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\bin\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\bin\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.dll
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\bin\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.pdb
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.dll
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.pdb
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1045.Tipos_de_Triângulos\obj\Debug\netcoreapp3.1\1045.Tipos_de_Triângulos.csproj.AssemblyReference.cache

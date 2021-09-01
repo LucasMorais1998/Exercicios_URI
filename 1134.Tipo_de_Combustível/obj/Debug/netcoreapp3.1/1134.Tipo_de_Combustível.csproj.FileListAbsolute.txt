@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\bin\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.exe
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\bin\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.deps.json
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\bin\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\bin\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\bin\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.dll
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\bin\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.pdb
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.dll
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.pdb
+F:\Users\lucas\source\repos\URI\1134.Tipo_de_Combustível\obj\Debug\netcoreapp3.1\1134.Tipo_de_Combustível.genruntimeconfig.cache

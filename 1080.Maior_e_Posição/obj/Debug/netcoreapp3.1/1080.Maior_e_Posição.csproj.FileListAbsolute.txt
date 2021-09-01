@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\bin\Debug\netcoreapp3.1\1080.Maior_e_Posição.exe
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\bin\Debug\netcoreapp3.1\1080.Maior_e_Posição.deps.json
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\bin\Debug\netcoreapp3.1\1080.Maior_e_Posição.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\bin\Debug\netcoreapp3.1\1080.Maior_e_Posição.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\bin\Debug\netcoreapp3.1\1080.Maior_e_Posição.dll
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\bin\Debug\netcoreapp3.1\1080.Maior_e_Posição.pdb
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.dll
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.pdb
+F:\Users\lucas\source\repos\URI\1080.Maior_e_Posição\obj\Debug\netcoreapp3.1\1080.Maior_e_Posição.genruntimeconfig.cache

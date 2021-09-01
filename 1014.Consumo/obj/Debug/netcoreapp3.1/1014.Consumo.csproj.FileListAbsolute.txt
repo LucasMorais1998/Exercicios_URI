@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1014.Consumo\bin\Debug\netcoreapp3.1\1014.Consumo.exe
+F:\Users\lucas\source\repos\URI\1014.Consumo\bin\Debug\netcoreapp3.1\1014.Consumo.deps.json
+F:\Users\lucas\source\repos\URI\1014.Consumo\bin\Debug\netcoreapp3.1\1014.Consumo.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1014.Consumo\bin\Debug\netcoreapp3.1\1014.Consumo.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1014.Consumo\bin\Debug\netcoreapp3.1\1014.Consumo.dll
+F:\Users\lucas\source\repos\URI\1014.Consumo\bin\Debug\netcoreapp3.1\1014.Consumo.pdb
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.dll
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.pdb
+F:\Users\lucas\source\repos\URI\1014.Consumo\obj\Debug\netcoreapp3.1\1014.Consumo.genruntimeconfig.cache

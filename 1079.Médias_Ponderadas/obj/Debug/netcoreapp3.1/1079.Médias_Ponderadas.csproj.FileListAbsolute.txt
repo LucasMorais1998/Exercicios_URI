@@ -1,0 +1,12 @@
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\bin\Debug\netcoreapp3.1\1079.Médias_Ponderadas.exe
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\bin\Debug\netcoreapp3.1\1079.Médias_Ponderadas.deps.json
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\bin\Debug\netcoreapp3.1\1079.Médias_Ponderadas.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\bin\Debug\netcoreapp3.1\1079.Médias_Ponderadas.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\bin\Debug\netcoreapp3.1\1079.Médias_Ponderadas.dll
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\bin\Debug\netcoreapp3.1\1079.Médias_Ponderadas.pdb
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\obj\Debug\netcoreapp3.1\1079.Médias_Ponderadas.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\obj\Debug\netcoreapp3.1\1079.Médias_Ponderadas.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\obj\Debug\netcoreapp3.1\1079.Médias_Ponderadas.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\obj\Debug\netcoreapp3.1\1079.Médias_Ponderadas.dll
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\obj\Debug\netcoreapp3.1\1079.Médias_Ponderadas.pdb
+F:\Users\lucas\source\repos\URI\1079.Médias_Ponderadas\obj\Debug\netcoreapp3.1\1079.Médias_Ponderadas.genruntimeconfig.cache

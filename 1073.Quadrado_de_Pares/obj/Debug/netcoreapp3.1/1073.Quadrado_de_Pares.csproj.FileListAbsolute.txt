@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\bin\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.exe
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\bin\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.deps.json
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\bin\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\bin\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\bin\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.dll
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\bin\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.pdb
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.dll
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.pdb
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1073.Quadrado_de_Pares\obj\Debug\netcoreapp3.1\1073.Quadrado_de_Pares.csproj.AssemblyReference.cache

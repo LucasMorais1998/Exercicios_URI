@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\bin\Debug\netcoreapp3.1\1146.Sequências_Crescentes.exe
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\bin\Debug\netcoreapp3.1\1146.Sequências_Crescentes.deps.json
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\bin\Debug\netcoreapp3.1\1146.Sequências_Crescentes.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\bin\Debug\netcoreapp3.1\1146.Sequências_Crescentes.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\bin\Debug\netcoreapp3.1\1146.Sequências_Crescentes.dll
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\bin\Debug\netcoreapp3.1\1146.Sequências_Crescentes.pdb
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.dll
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.pdb
+F:\Users\lucas\source\repos\URI\1146.Sequências_Crescentes\obj\Debug\netcoreapp3.1\1146.Sequências_Crescentes.genruntimeconfig.cache

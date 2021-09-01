@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\bin\Debug\netcoreapp3.1\1117.Validação_de_Nota.exe
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\bin\Debug\netcoreapp3.1\1117.Validação_de_Nota.deps.json
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\bin\Debug\netcoreapp3.1\1117.Validação_de_Nota.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\bin\Debug\netcoreapp3.1\1117.Validação_de_Nota.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\bin\Debug\netcoreapp3.1\1117.Validação_de_Nota.dll
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\bin\Debug\netcoreapp3.1\1117.Validação_de_Nota.pdb
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.dll
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.pdb
+F:\Users\lucas\source\repos\URI\1117.Validação_de_Nota\obj\Debug\netcoreapp3.1\1117.Validação_de_Nota.genruntimeconfig.cache

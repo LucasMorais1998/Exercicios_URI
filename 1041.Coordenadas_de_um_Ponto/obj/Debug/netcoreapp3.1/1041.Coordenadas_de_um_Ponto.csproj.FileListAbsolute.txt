@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\bin\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.exe
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\bin\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.deps.json
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\bin\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\bin\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\bin\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.dll
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\bin\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.pdb
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.dll
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.pdb
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1041.Coordenadas_de_um_Ponto\obj\Debug\netcoreapp3.1\1041.Coordenadas_de_um_Ponto.csproj.AssemblyReference.cache

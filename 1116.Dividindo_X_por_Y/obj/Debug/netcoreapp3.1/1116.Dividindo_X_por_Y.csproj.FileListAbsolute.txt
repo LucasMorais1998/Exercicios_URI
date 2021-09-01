@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\bin\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.exe
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\bin\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.deps.json
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\bin\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\bin\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\bin\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.dll
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\bin\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.pdb
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.dll
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.pdb
+F:\Users\lucas\source\repos\URI\1116.Dividindo_X_por_Y\obj\Debug\netcoreapp3.1\1116.Dividindo_X_por_Y.genruntimeconfig.cache

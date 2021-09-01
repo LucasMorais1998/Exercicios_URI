@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\bin\Debug\netcoreapp3.1\3302.Resposta Certa.exe
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\bin\Debug\netcoreapp3.1\3302.Resposta Certa.deps.json
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\bin\Debug\netcoreapp3.1\3302.Resposta Certa.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\bin\Debug\netcoreapp3.1\3302.Resposta Certa.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\bin\Debug\netcoreapp3.1\3302.Resposta Certa.dll
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\bin\Debug\netcoreapp3.1\3302.Resposta Certa.pdb
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.dll
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.pdb
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\3302.Resposta Certa\obj\Debug\netcoreapp3.1\3302.Resposta Certa.csproj.AssemblyReference.cache

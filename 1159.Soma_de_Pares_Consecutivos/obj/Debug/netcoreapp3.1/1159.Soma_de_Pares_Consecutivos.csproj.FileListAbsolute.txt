@@ -1,0 +1,14 @@
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\bin\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.exe
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\bin\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.deps.json
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\bin\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\bin\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\bin\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.dll
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\bin\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.pdb
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.dll
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.pdb
+F:\Users\lucas\source\repos\URI\1159.Soma_de_Pares_Consecutivos\obj\Debug\netcoreapp3.1\1159.Soma_de_Pares_Consecutivos.genruntimeconfig.cache

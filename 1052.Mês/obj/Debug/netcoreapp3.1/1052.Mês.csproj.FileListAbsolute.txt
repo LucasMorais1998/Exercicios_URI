@@ -1,0 +1,12 @@
+F:\Users\lucas\source\repos\URI\1052.Mês\obj\Debug\netcoreapp3.1\1052.Mês.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1052.Mês\obj\Debug\netcoreapp3.1\1052.Mês.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1052.Mês\obj\Debug\netcoreapp3.1\1052.Mês.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1052.Mês\bin\Debug\netcoreapp3.1\1052.Mês.exe
+F:\Users\lucas\source\repos\URI\1052.Mês\bin\Debug\netcoreapp3.1\1052.Mês.deps.json
+F:\Users\lucas\source\repos\URI\1052.Mês\bin\Debug\netcoreapp3.1\1052.Mês.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1052.Mês\bin\Debug\netcoreapp3.1\1052.Mês.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1052.Mês\bin\Debug\netcoreapp3.1\1052.Mês.dll
+F:\Users\lucas\source\repos\URI\1052.Mês\bin\Debug\netcoreapp3.1\1052.Mês.pdb
+F:\Users\lucas\source\repos\URI\1052.Mês\obj\Debug\netcoreapp3.1\1052.Mês.dll
+F:\Users\lucas\source\repos\URI\1052.Mês\obj\Debug\netcoreapp3.1\1052.Mês.pdb
+F:\Users\lucas\source\repos\URI\1052.Mês\obj\Debug\netcoreapp3.1\1052.Mês.genruntimeconfig.cache

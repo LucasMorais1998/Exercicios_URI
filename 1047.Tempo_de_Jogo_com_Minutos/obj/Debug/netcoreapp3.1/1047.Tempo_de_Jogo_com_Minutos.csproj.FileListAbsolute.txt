@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\bin\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.exe
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\bin\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.deps.json
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\bin\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\bin\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\bin\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.dll
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\bin\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.pdb
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.dll
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.pdb
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1047.Tempo_de_Jogo_com_Minutos\obj\Debug\netcoreapp3.1\1047.Tempo_de_Jogo_com_Minutos.csproj.AssemblyReference.cache

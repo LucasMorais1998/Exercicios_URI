@@ -1,0 +1,13 @@
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\bin\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.exe
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\bin\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.deps.json
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\bin\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.runtimeconfig.json
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\bin\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.runtimeconfig.dev.json
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\bin\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.dll
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\bin\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.pdb
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.csproj.AssemblyReference.cache
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.AssemblyInfoInputs.cache
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.AssemblyInfo.cs
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.csproj.CoreCompileInputs.cache
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.dll
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.pdb
+F:\Users\lucas\source\repos\URI\1036.Fórmula_de_Bhaskara\obj\Debug\netcoreapp3.1\1036.Fórmula_de_Bhaskara.genruntimeconfig.cache
