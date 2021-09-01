@@ -11,3 +11,4 @@ F:\Users\lucas\source\repos\URI\1178.Preenchimento_de_Vetor_III\obj\Debug\netcor
 F:\Users\lucas\source\repos\URI\1178.Preenchimento_de_Vetor_III\obj\Debug\netcoreapp3.1\1178.Preenchimento_de_Vetor_III.dll
 F:\Users\lucas\source\repos\URI\1178.Preenchimento_de_Vetor_III\obj\Debug\netcoreapp3.1\1178.Preenchimento_de_Vetor_III.pdb
 F:\Users\lucas\source\repos\URI\1178.Preenchimento_de_Vetor_III\obj\Debug\netcoreapp3.1\1178.Preenchimento_de_Vetor_III.genruntimeconfig.cache
+F:\Users\lucas\source\repos\URI\1178.Preenchimento_de_Vetor_III\obj\Debug\netcoreapp3.1\1178.Preenchimento_de_Vetor_III.csproj.AssemblyReference.cache
