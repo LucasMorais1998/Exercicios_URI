@@ -6,29 +6,37 @@ namespace _1180.Menor_e_Posição
     {
         static void Main(string[] args)
         {
-            int[] N = new int[10];
+            int N = int.Parse(Console.ReadLine());
 
-            int Menor = ;
+            int[] X = new int[N];
+
+            int Menor = 0; // Startar com > num possivel ??
             int Posicao = 0;
 
-            for (int i = 0; i < N.Length; i++)
-            {
-                N[i] = int.Parse(Console.ReadLine());
+            string[] Entrada = Console.ReadLine().Split(' ');
 
-                if (Menor > N[i])
-                {
-                    Menor = N[i];
-                    Posicao = i;
-                }
+            for (int i = 0; i < N; i++)
+            {
+                X[i] = int.Parse(Entrada[i]);
+
+                //if (Posicao == 0) // Posição starta valendo 0 
+                //{
+                //    Menor = X[i];
+                //    Posicao = i;
+                //}
+                //else
+                //{
+                    if (X[i] < Menor)
+                    {
+                        Menor = X[i];
+                        Posicao = i;
+                    }
+                //}
             }
-            
+
             Console.WriteLine("Menor valor: " + Menor);
             Console.WriteLine("Posicao: " + Posicao);
-            
-
-
-           
-
+                     
         }
     }
 }

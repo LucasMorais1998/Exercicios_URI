@@ -172,9 +172,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1178.Preenchimento_de_Vetor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1180.Menor_e_Posição", "1180.Menor_e_Posição\1180.Menor_e_Posição.csproj", "{624EE9DF-27A2-4B7A-8984-CC95A7ED84C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1011.Esfera", "1011.Esfera\1011.Esfera.csproj", "{0A3E172D-1431-448B-A4E6-678FE4FB97E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1011.Esfera", "1011.Esfera\1011.Esfera.csproj", "{0A3E172D-1431-448B-A4E6-678FE4FB97E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1010.Cálculo_Simples", "1010.Cálculo_Simples\1010.Cálculo_Simples.csproj", "{B781A42B-8F1C-4EA9-93E3-0DEDC19CCE1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1010.Cálculo_Simples", "1010.Cálculo_Simples\1010.Cálculo_Simples.csproj", "{B781A42B-8F1C-4EA9-93E3-0DEDC19CCE1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1179.Preenchimento_de_Vetor_IV", "1179.Preenchimento_de_Vetor_IV\1179.Preenchimento_de_Vetor_IV.csproj", "{6C287184-DE51-41CE-A664-B774EDCBBF17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -518,6 +520,10 @@ Global
 		{B781A42B-8F1C-4EA9-93E3-0DEDC19CCE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B781A42B-8F1C-4EA9-93E3-0DEDC19CCE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B781A42B-8F1C-4EA9-93E3-0DEDC19CCE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C287184-DE51-41CE-A664-B774EDCBBF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C287184-DE51-41CE-A664-B774EDCBBF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C287184-DE51-41CE-A664-B774EDCBBF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C287184-DE51-41CE-A664-B774EDCBBF17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
