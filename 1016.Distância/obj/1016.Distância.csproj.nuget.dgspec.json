@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1016.Distância\\1016.Distância.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1016.Distância\\1016.Distância.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1016.Distância\\1016.Distância.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1016.Distância\\1016.Distância.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1016.Distância\\1016.Distância.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1016.Distância\\1016.Distância.csproj",
         "projectName": "1016.Distância",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1016.Distância\\1016.Distância.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1016.Distância\\1016.Distância.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1016.Distância\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1016.Distância\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj",
         "projectName": "1174.Seleçao_em_Vetor_I",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1174.Seleçao_em_Vetor_I\\1174.Seleçao_em_Vetor_I.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1174.Seleçao_em_Vetor_I\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1174.Seleçao_em_Vetor_I\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

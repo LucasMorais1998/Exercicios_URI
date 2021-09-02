@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj",
         "projectName": "1164.Número_Perfeito",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1164.Número_Perfeito\\1164.Número_Perfeito.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1164.Número_Perfeito\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1164.Número_Perfeito\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj",
         "projectName": "1046.Tempo_de_Jogo",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1046.Tempo_de_Jogo\\1046.Tempo_de_Jogo.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1046.Tempo_de_Jogo\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1046.Tempo_de_Jogo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

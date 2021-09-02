@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj",
         "projectName": "1143.Quadrado_e_ao_Cubo",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1143.Quadrado_e_ao_Cubo\\1143.Quadrado_e_ao_Cubo.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1143.Quadrado_e_ao_Cubo\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1143.Quadrado_e_ao_Cubo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

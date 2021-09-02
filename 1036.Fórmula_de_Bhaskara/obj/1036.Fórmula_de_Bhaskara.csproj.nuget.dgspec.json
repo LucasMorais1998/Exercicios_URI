@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj",
         "projectName": "1036.Fórmula_de_Bhaskara",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1036.Fórmula_de_Bhaskara\\1036.Fórmula_de_Bhaskara.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1036.Fórmula_de_Bhaskara\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1036.Fórmula_de_Bhaskara\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

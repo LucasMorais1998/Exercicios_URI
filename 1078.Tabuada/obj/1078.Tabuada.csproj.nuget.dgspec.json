@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1078.Tabuada\\1078.Tabuada.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1078.Tabuada\\1078.Tabuada.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1078.Tabuada\\1078.Tabuada.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1078.Tabuada\\1078.Tabuada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1078.Tabuada\\1078.Tabuada.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1078.Tabuada\\1078.Tabuada.csproj",
         "projectName": "1078.Tabuada",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1078.Tabuada\\1078.Tabuada.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1078.Tabuada\\1078.Tabuada.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1078.Tabuada\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1078.Tabuada\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

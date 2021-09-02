@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj",
         "projectName": "1010.Cálculo_Simples",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1010.Cálculo_Simples\\1010.Cálculo_Simples.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1010.Cálculo_Simples\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1010.Cálculo_Simples\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj",
         "projectName": "3302.Resposta Certa",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\3302.Resposta Certa\\3302.Resposta Certa.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\3302.Resposta Certa\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\3302.Resposta Certa\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

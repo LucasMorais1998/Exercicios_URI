@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj",
         "projectName": "1097.Sequencia_IJ_3",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1097.Sequencia_IJ_3\\1097.Sequencia_IJ_3.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1097.Sequencia_IJ_3\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1097.Sequencia_IJ_3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

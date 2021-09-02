@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj",
         "projectName": "1073.Quadrado_de_Pares",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1073.Quadrado_de_Pares\\1073.Quadrado_de_Pares.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1073.Quadrado_de_Pares\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1073.Quadrado_de_Pares\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

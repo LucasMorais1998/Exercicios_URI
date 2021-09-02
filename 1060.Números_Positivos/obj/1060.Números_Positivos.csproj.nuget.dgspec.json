@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj",
         "projectName": "1060.Números_Positivos",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1060.Números_Positivos\\1060.Números_Positivos.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1060.Números_Positivos\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1060.Números_Positivos\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj",
         "projectName": "1074.Par_ou_Ímpar",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1074.Par_ou_Ímpar\\1074.Par_ou_Ímpar.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1074.Par_ou_Ímpar\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1074.Par_ou_Ímpar\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

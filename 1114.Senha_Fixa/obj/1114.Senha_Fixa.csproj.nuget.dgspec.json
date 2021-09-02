@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj",
         "projectName": "1114.Senha_Fixa",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1114.Senha_Fixa\\1114.Senha_Fixa.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1114.Senha_Fixa\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1114.Senha_Fixa\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

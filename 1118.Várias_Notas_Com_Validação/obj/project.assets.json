@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lucas\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1118.Várias_Notas_Com_Validação\\1118.Várias_Notas_Com_Validação.csproj",
+      "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1118.Várias_Notas_Com_Validação\\1118.Várias_Notas_Com_Validação.csproj",
       "projectName": "1118.Várias_Notas_Com_Validação",
-      "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1118.Várias_Notas_Com_Validação\\1118.Várias_Notas_Com_Validação.csproj",
+      "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1118.Várias_Notas_Com_Validação\\1118.Várias_Notas_Com_Validação.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1118.Várias_Notas_Com_Validação\\obj\\",
+      "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1118.Várias_Notas_Com_Validação\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

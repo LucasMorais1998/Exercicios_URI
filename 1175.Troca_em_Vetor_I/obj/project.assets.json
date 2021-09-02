@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lucas\\.nuget\\packages\\": {}
+    "C:\\Users\\lucas\\.nuget\\packages\\": {},
+    "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1175.Troca_em_Vetor_I\\1175.Troca_em_Vetor_I.csproj",
+      "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1175.Troca_em_Vetor_I\\1175.Troca_em_Vetor_I.csproj",
       "projectName": "1175.Troca_em_Vetor_I",
-      "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1175.Troca_em_Vetor_I\\1175.Troca_em_Vetor_I.csproj",
+      "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1175.Troca_em_Vetor_I\\1175.Troca_em_Vetor_I.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1175.Troca_em_Vetor_I\\obj\\",
+      "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1175.Troca_em_Vetor_I\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

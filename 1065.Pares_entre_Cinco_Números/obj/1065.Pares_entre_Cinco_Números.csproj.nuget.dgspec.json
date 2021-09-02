@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj",
         "projectName": "1065.Pares_entre_Cinco_Números",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1065.Pares_entre_Cinco_Números\\1065.Pares_entre_Cinco_Números.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1065.Pares_entre_Cinco_Números\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1065.Pares_entre_Cinco_Números\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

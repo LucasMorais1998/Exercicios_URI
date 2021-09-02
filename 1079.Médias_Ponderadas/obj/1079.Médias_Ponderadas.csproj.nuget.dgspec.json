@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj": {}
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj": {}
   },
   "projects": {
-    "F:\\Users\\lucas\\source\\repos\\URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj": {
+    "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj",
+        "projectUniqueName": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj",
         "projectName": "1079.Médias_Ponderadas",
-        "projectPath": "F:\\Users\\lucas\\source\\repos\\URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj",
+        "projectPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1079.Médias_Ponderadas\\1079.Médias_Ponderadas.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "F:\\Users\\lucas\\source\\repos\\URI\\1079.Médias_Ponderadas\\obj\\",
+        "outputPath": "F:\\Users\\lucas\\source\\repos\\Exercicio_URI\\1079.Médias_Ponderadas\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "F:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
