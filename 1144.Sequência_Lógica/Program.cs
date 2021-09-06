@@ -6,9 +6,6 @@ namespace _1144.Sequência_Lógica
     {
         static void Main(string[] args)
         {
-            //int N = int.Parse(Console.ReadLine());
-            //int n = N * 2;
-
             // 1 1 1 = 1 * 1 = 1
             // 1 2 2 = 1 * 2 - 0(contador + 1) = 2
             // 2 4 8 = 2 * 4 = 8
@@ -19,6 +16,17 @@ namespace _1144.Sequência_Lógica
             // 4 16 65 = 4 * 16 - 3(contador + 1) = 65
             // 5 25 125 = 5 * 25 = 125
             // 5 26 126 = 5 * 26 - 4(contador + 1) = 126
+
+            int N = int.Parse(Console.ReadLine());
+            int n = N * 2;
+
+            for (int i = 1; i <= N ; i++)
+            {
+                Console.WriteLine(i + " " + (i * i) + " " + (i * i * i));
+                Console.WriteLine(i + " " +  ((i * i) + 1) + " " + ((i * i * i) + 1));
+            }
+            
+            
 
 
 

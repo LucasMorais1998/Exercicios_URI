@@ -19,19 +19,19 @@ namespace _1180.Menor_e_Posição
             {
                 X[i] = int.Parse(Entrada[i]);
 
-                //if (Posicao == 0) // Posição starta valendo 0 
-                //{
-                //    Menor = X[i];
-                //    Posicao = i;
-                //}
-                //else
-                //{
+                if (Posicao == 0) // Posição starta valendo 0 
+                {
+                    Menor = X[i];
+                    Posicao = i;
+                }
+                else
+                {
                     if (X[i] < Menor)
                     {
                         Menor = X[i];
                         Posicao = i;
                     }
-                //}
+                }
             }
 
             Console.WriteLine("Menor valor: " + Menor);
