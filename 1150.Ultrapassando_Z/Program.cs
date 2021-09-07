@@ -17,12 +17,12 @@ namespace _1150.Ultrapassando_Z
                 Z = int.Parse(Console.ReadLine());
             }
 
-            //if (X + X > Z)
-            //{
-            //    cont = 1;
-            //}
-            //else
-            //{
+            if (X + X > Z)
+            {
+                cont = 1;
+            }
+            else
+            {
                 do
                 {
                     teste += X;
@@ -30,9 +30,10 @@ namespace _1150.Ultrapassando_Z
                     X++;
 
                 } while (Z > teste);
-            //}
+            }
 
             Console.WriteLine(cont);
+          
         }
     }
 }

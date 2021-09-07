@@ -11,7 +11,7 @@ namespace _1094.Experiências
             int N = int.Parse(Console.ReadLine());
 
             int Quant = 0;
-            string Tipo;
+            char Tipo;
 
 
             int ContR = 0, ContS = 0, ContC = 0, Total = 0;
@@ -21,25 +21,25 @@ namespace _1094.Experiências
 
                 string[] Cobaia = Console.ReadLine().Split(' ');
 ;               Quant = Convert.ToInt32(Cobaia[0]);
-                Tipo = Cobaia[1];
+                Tipo = char.Parse(Cobaia[1]);
 
                 if (Quant >= 1 && Quant <= 15)
                 {
-                    if (Tipo == "R")
+                    if (Tipo == 'R')
                     {
                         ContR += Quant;
                         Total += Quant;
                     }
                     else
                     {
-                        if (Tipo == "S")
+                        if (Tipo == 'S')
                         {
                             ContS += Quant;
                             Total += Quant;
                         }
                         else
                         {
-                            if (Tipo == "C")
+                            if (Tipo == 'C')
                             {
                                 ContC += Quant;
                                 Total += Quant;
@@ -56,11 +56,10 @@ namespace _1094.Experiências
             double PorcentS = (ContS * 100.0) / TotalFinal;
 
 
-            Console.WriteLine("Total: " + Total + " cobais");
+            Console.WriteLine("Total: " + Total + " cobaias");
             Console.WriteLine("Total de coelhos: " + ContC);
             Console.WriteLine("Total de ratos: " + ContR);
             Console.WriteLine("Total de sapos: " + ContS);
-
             Console.WriteLine("Percentual de coelhos: " + PorcentC.ToString("F2", CultureInfo.InvariantCulture) + " %");
             Console.WriteLine("Percentual de ratos: " + PorcentR.ToString("F2", CultureInfo.InvariantCulture) + " %");
             Console.WriteLine("Percentual de sapos: " + PorcentS.ToString("F2", CultureInfo.InvariantCulture) + " %");

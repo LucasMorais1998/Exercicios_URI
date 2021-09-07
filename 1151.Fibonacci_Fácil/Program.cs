@@ -18,13 +18,23 @@ namespace _1151.Fibonacci_Fácil
                 for (int i = 2; i < N; i++)
                 {
                     int n3 = n1 + n2;
-                    Console.Write(n3 + " ");
-                    n1 = n2;
-                    n2 = n3;
+
+                    if (i == N - 1)
+                    {
+                        Console.WriteLine(n3);
+                    }
+                    else
+                    {
+                        Console.Write(n3 + " ");
+                        n1 = n2;
+                        n2 = n3;
+                    }
+                    
+
                 }
             }
         }
 
-            
+
     }
 }

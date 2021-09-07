@@ -180,7 +180,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1179.Preenchimento_de_Vetor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1145.Sequência_Lógica_2", "1145.Sequência_Lógica_2\1145.Sequência_Lógica_2.csproj", "{E1E151D9-8D34-46EC-B76B-17C13B31CA10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1150.Ultrapassando_Z", "1150.Ultrapassando_Z\1150.Ultrapassando_Z.csproj", "{B5B63324-256C-4A45-AA1F-9C35702D78AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1150.Ultrapassando_Z", "1150.Ultrapassando_Z\1150.Ultrapassando_Z.csproj", "{B5B63324-256C-4A45-AA1F-9C35702D78AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1165.Número_Primo", "1165.Número_Primo\1165.Número_Primo.csproj", "{4F9706A8-6F58-4B89-B01D-E07FB8D4E483}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -536,6 +538,10 @@ Global
 		{B5B63324-256C-4A45-AA1F-9C35702D78AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B63324-256C-4A45-AA1F-9C35702D78AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B63324-256C-4A45-AA1F-9C35702D78AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9706A8-6F58-4B89-B01D-E07FB8D4E483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9706A8-6F58-4B89-B01D-E07FB8D4E483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9706A8-6F58-4B89-B01D-E07FB8D4E483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9706A8-6F58-4B89-B01D-E07FB8D4E483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
