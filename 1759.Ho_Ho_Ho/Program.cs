@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace _1759.Ho_Ho_Ho
 {
@@ -14,7 +15,6 @@ namespace _1759.Ho_Ho_Ho
             }
 
             Console.Write("Ho!\n");
-
         }
     }
 }
